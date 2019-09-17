@@ -1,0 +1,99 @@
+.contact{
+  background: #35776d;
+}
+
+.contact a{
+  color: #fff;
+}
+
+.contact i{
+  color:#fff;
+  padding: 10px;
+}
+
+.school-info{
+  
+}
+
+.school-info h2{
+  color:#fff;
+  text-align: center;
+}
+
+.school-info h3{
+  color:#fff;
+  text-align: center;
+  font-size: 14px
+}
+
+.school-info h4{
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+}
+
+.school-info .time{
+  color: #fff;
+  text-align: center;
+  font-size: 10px;
+}
+
+.hobbies{
+
+}
+
+.hobbies h2{
+  color:#fff;
+  text-align: center;
+}
+
+.hobbies li{
+  color:#fff;
+  text-align: center;
+}
+
+.info-content{
+  
+}
+
+.info-content .fa{
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+  color: #fff;
+  border-radius: 50%;
+  background: #35776d;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 16px;
+  position: relative;
+  top: -2px;
+}
+
+.info-content p{
+margin-left: 25px;
+}
+
+.info-content .upper{
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 2px;
+}
+
+.info-content .job-title{
+   margin-top: 0;
+  margin-bottom: 0;
+}
+
+.info-content .job-time{
+   margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+
+.foot{
+  text-align: center;
+  background: #E5E8E8;
+
+}
