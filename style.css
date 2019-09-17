@@ -15,6 +15,14 @@
   
 }
 
+.school-info .title{
+  padding-bottom: 10px;
+}
+
+.school-info .time{
+  padding-bottom: 10px;
+}
+
 .school-info h2{
   color:#fff;
   text-align: center;
@@ -70,6 +78,20 @@
   top: -2px;
 }
 
+.info-content .fas{
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+  color: #fff;
+  border-radius: 50%;
+  background: #35776d;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 16px;
+  position: relative;
+  top: -2px;
+}
+
 .info-content p{
 margin-left: 25px;
 }
@@ -90,7 +112,56 @@ margin-left: 25px;
   margin-bottom: 0;
 }
 
+.divider{
+  border-top: 1px solid #8c8b8b;
+}
 
+.content-know {
+}
+
+.content-know h3{
+font-size: 16px;
+}
+
+.content-know .por1{
+  width:10%;
+}
+
+.content-know .por2{
+  width:20%;
+}
+
+.content-know .por3{
+  width:30%;
+}
+
+.content-know .por4{
+  width:40%;
+}
+
+.content-know .por5{
+  width:50%;
+}
+
+.content-know .por6{
+  width:60%;
+}
+
+.content-know .por7{
+  width:60%;
+}
+
+.content-know .por8{
+  width:60%;
+}
+
+.content-know .por9{
+  width:60%;
+}
+
+.content-know .por10{
+  width:60%;
+}
 
 .foot{
   text-align: center;
